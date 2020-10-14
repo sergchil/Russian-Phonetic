@@ -1,9 +1,9 @@
 {
-  "title": "Armenian Phonetic",
-  "icon": "ArmenianPhonetic.icns",
+  "title": "Russian Phonetic",
+  "icon": "RussianPhonetic.icns",
   "background": "background.png",
   "contents": [
-    {"x": 150, "y": 250, "type": "file", "path": "ArmenianPhonetic.bundle"},
+    {"x": 150, "y": 250, "type": "file", "path": "RussianPhonetic.bundle"},
     {"x": 440, "y": 250, "type": "link", "path": "/Library/Keyboard Layouts"}
   ],
   "window": {
